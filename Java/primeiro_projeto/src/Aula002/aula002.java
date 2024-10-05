@@ -1,5 +1,7 @@
 package Aula002;
 
+// Outras variaveis
+
 public class aula002 {
 	
 	public static void main(String[] args) {

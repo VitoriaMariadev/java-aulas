@@ -1,4 +1,7 @@
 package Aula003;
+
+// Aula de entrada de dados
+
 import java.util.Scanner; //Importar isso aqui pra poder fazer entrada de dados
 
 public class aula003 {
